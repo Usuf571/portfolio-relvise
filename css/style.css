@@ -248,7 +248,7 @@ a{
 .advantages-body-item {
     padding: 40px;
     flex: 1 1 25%;
-    background-color: rgb(167, 159, 159);
+    background-color: #fff;
 }
 .advantages-body-item{
     margin: 10px;
@@ -311,7 +311,7 @@ a{
     width: 100%;
     margin: 20px;
     text-align: center;
-    background-color: rgb(208, 206, 206);
+    background-color: #fff;
 
 }
 .advice-content{
